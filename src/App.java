@@ -1,5 +1,5 @@
+import imd.edb2.dataStructure.redBlackTree.ArvoreBalanceada;
 import imd.edb2.domain.Reserva;
-import imd.edb2.domain.ArvoreBalanceada;
 
 public class App {
     public static void main(String[] args) throws Exception {

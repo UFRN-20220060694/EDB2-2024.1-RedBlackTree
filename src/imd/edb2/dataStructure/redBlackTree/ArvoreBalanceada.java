@@ -1,11 +1,10 @@
-package imd.edb2.domain;
+package imd.edb2.dataStructure.redBlackTree;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-import imd.edb2.dataStructure.redBlackTree.Color;
-import imd.edb2.dataStructure.redBlackTree.Node;
+import imd.edb2.domain.Reserva;
 
 public class ArvoreBalanceada {
    private Node root;
